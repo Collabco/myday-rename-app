@@ -2,7 +2,7 @@
 
 [![npm-version](https://img.shields.io/npm/v/@collabco/myday-rename-app)](https://www.npmjs.com/package/@collabco/myday-rename-app) [![node-version](https://img.shields.io/node/v/@collabco/myday-rename-app)](https://nodejs.org) [![dependencies](https://img.shields.io/librariesio/release/npm/@collabco/myday-rename-app)](https://github.com/Collabco/myday-rename-app/blob/master/package.json)
 
-[![myday](./myday.png)]((https://myday.collabco.com))
+[![myday](./myday.png)](https://myday.collabco.com)
 
 Utility to rename apps on [myday](https://myday.collabco.com) platform, by [Collabco](https://collabco.com). This will replace app IDs (e.g. `tenantalias.appname`) from one to another across all files and filenames.
 
