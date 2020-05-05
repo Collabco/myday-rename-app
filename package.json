@@ -1,0 +1,35 @@
+{
+  "name": "@collabco/myday-rename-app",
+  "version": "1.0.0",
+  "description": "Utility to rename apps on myday platform",
+  "author": "Kamil Burek <kamil.burek@collabco.co.uk>",
+  "keywords": [
+    "collabco",
+    "myday",
+    "cli"
+  ],
+  "homepage": "https://github.com/Collabco/myday-rename-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collabco/myday-rename-app.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "myday-deploy-app": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "chalk": "3.0.0",
+    "glob": "^7.1.6",
+    "yargs": "15.3.1"
+  },
+  "engines": {
+    "node": ">=11"
+  }
+}
